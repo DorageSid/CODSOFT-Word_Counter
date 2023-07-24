@@ -34,6 +34,15 @@ After running the project
 -  Select the text file you want to analyze.
 -  The content of the file will be displayed in the text area, and the word count and unique word count will be updated accordingly.
 
+**Preview**
+
+![start](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/start.png)
+
+![working](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/manually%20text.png)
+
+![working](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/manually%20text%20after%20count.png)
+
+![start](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/choosing%20file%20%26%20count.png)
 
 #### Technology Used
 `Java` : The game is developed using the Java programming language.
