@@ -48,6 +48,6 @@ After running the project
 -  Automatically ignore common stop words during word counting.
 -  Display word count and unique word count on the GUI.
 
-<span style="background-color: yellow">Customize Stop Words</span>
 
-The application includes a set of common stop words that are excluded during word counting. If you want to customize this set or add more stop words, you can `modify`  the **stopWords** set in the **WordCounter** class.
+#### Customize Stop Words
+The application includes a set of common stop words that are excluded during word counting. If you want to customize this set or add more stop words, you can **`modify`**  the **stopWords** set in the **WordCounter** class.
