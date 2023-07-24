@@ -24,12 +24,12 @@ To run the Word Counter application, you need to have the following:
 
 #### How to Use
 After running the project
-#### ==To count words in the entered text:==
+#### To count words in the entered text:
 -  Type or paste your text into the provided text area.
 -  Click the "Count Words" button.
 -  The word count and unique word count will be displayed on the right side of the window.
 
-#### ==To count words in a file:==
+#### To count words in a file:
 -  Click the "Open File" button.
 -  Select the text file you want to analyze.
 -  The content of the file will be displayed in the text area, and the word count and unique word count will be updated accordingly.
@@ -47,3 +47,6 @@ After running the project
 -  Allow users to open a text file and analyze its content.
 -  Automatically ignore common stop words during word counting.
 -  Display word count and unique word count on the GUI.
+
+==Customize Stop Words==
+The application includes a set of common stop words that are excluded during word counting. If you want to customize this set or add more stop words, you can `modify`  the **stopWords** set in the **WordCounter** class.
