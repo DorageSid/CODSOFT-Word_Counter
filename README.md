@@ -1,6 +1,7 @@
 # Word Counter
 
 **Description**
+
 The **Word Counter** is a simple Java program that allows users to count the total number of words and the number of unique words in a given text or a file.
 
 ## How to Run the Project
@@ -17,9 +18,13 @@ The **Word Counter** is a simple Java program that allows users to count the tot
   -  java -file name-
 
 #### How to Use
-
-After running the project -
-
-###### To count words in the entered text:
+After running the project
+#### To count words in the entered text:
 -  Type or paste your text into the provided text area.
--  Click the "Count Words" button
+-  Click the "Count Words" button.
+-  The word count and unique word count will be displayed on the right side of the window.
+
+#### To count words in a file:
+-  Click the "Open File" button.
+-  Select the text file you want to analyze.
+-  The content of the file will be displayed in the text area, and the word count and unique word count will be updated accordingly.
