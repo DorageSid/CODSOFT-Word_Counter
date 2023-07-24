@@ -42,6 +42,8 @@ After running the project
 
 ![working](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/manually%20text%20after%20count.png)
 
+![start](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/choosing%20file.png)
+
 ![start](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/choosing%20file%20%26%20count.png)
 
 #### Technology Used
