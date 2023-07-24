@@ -38,13 +38,30 @@ After running the project
 
 ![start](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/start.png)
 
+The above image shows the starting screen of a **Word Counter.**
+
+
 ![working](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/manually%20text.png)
+
+The image shows the interface of **Word Counter** allowing users to **input and analyze text manually.**
+
 
 ![working](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/manually%20text%20after%20count.png)
 
+The image shows the **`word count`** and the **`count of unique words`** as displayed by the Word Counter after analyzing the **input text manually.**
+
+
 ![start](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/choosing%20file.png)
 
+
+The image displays the Word Counter interface, offering users the **option to select and analyze text from a file** by choosing it through the application to count the words.
+
+
 ![start](https://github.com/DorageSid/CODSOFT-Word_Counter/blob/main/src/images/choosing%20file%20%26%20count.png)
+
+
+The image displays the **word count, unique word count, and the selected file's path.**
+
 
 #### Technology Used
 `Java` : The game is developed using the Java programming language.
