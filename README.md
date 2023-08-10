@@ -14,7 +14,7 @@ To run the Word Counter application, you need to have the following:
 #### To run the Word Counter project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-  -  git clone https://github.com/DorageSid/CODSOFT-Word_Counter.git
+  -  https://github.com/DorageSid/codsoft_-02.git
 2. Navigate to the project directory:
   -  cd -project directory-
 3. Compile the Java source code:
